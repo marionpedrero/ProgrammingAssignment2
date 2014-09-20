@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 
-makeCacheMatrix <- function(x = matrix()) {``
+makeCacheMatrix <- function(x = matrix()) {
 # this function allows to set and get a cache matrix and its inverse 
 inv<-NULL
   
